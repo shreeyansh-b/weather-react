@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/weather-react/static/css/main.2e76b5fa.chunk.css",
+    "main.js": "/weather-react/static/js/main.6552d8cb.chunk.js",
+    "main.js.map": "/weather-react/static/js/main.6552d8cb.chunk.js.map",
+    "runtime-main.js": "/weather-react/static/js/runtime-main.66e04aa1.js",
+    "runtime-main.js.map": "/weather-react/static/js/runtime-main.66e04aa1.js.map",
+    "static/js/2.57126790.chunk.js": "/weather-react/static/js/2.57126790.chunk.js",
+    "static/js/2.57126790.chunk.js.map": "/weather-react/static/js/2.57126790.chunk.js.map",
+    "index.html": "/weather-react/index.html",
+    "precache-manifest.62883f0e7fd2d62fcf912780869443f1.js": "/weather-react/precache-manifest.62883f0e7fd2d62fcf912780869443f1.js",
+    "service-worker.js": "/weather-react/service-worker.js",
+    "static/css/main.2e76b5fa.chunk.css.map": "/weather-react/static/css/main.2e76b5fa.chunk.css.map",
+    "static/js/2.57126790.chunk.js.LICENSE.txt": "/weather-react/static/js/2.57126790.chunk.js.LICENSE.txt",
+    "static/media/air.svg": "/weather-react/static/media/air.969aeeab.svg",
+    "static/media/cloudy.svg": "/weather-react/static/media/cloudy.ad789581.svg",
+    "static/media/cloudyDay.svg": "/weather-react/static/media/cloudyDay.b931d84d.svg",
+    "static/media/cloudyNight.svg": "/weather-react/static/media/cloudyNight.ef1c6aa1.svg",
+    "static/media/day.svg": "/weather-react/static/media/day.7f93fbdb.svg",
+    "static/media/drizzle.svg": "/weather-react/static/media/drizzle.c8cdb216.svg",
+    "static/media/haze.png": "/weather-react/static/media/haze.ca32cb42.png",
+    "static/media/humidity.svg": "/weather-react/static/media/humidity.5a3d9858.svg",
+    "static/media/mt.jpg": "/weather-react/static/media/mt.72345933.jpg",
+    "static/media/night.svg": "/weather-react/static/media/night.a3f3f38d.svg",
+    "static/media/rainy.svg": "/weather-react/static/media/rainy.d235ab65.svg",
+    "static/media/snowy.svg": "/weather-react/static/media/snowy.3def7c9f.svg",
+    "static/media/thunder.svg": "/weather-react/static/media/thunder.7142c78b.svg",
+    "static/media/wind.svg": "/weather-react/static/media/wind.3ce03e2b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66e04aa1.js",
+    "static/js/2.57126790.chunk.js",
+    "static/css/main.2e76b5fa.chunk.css",
+    "static/js/main.6552d8cb.chunk.js"
+  ]
+}
